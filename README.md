@@ -10,7 +10,7 @@ It is a small/simple example that implements SignalR, this example was made base
 
 - Html/Razor
 
-## Bibliotecas utilizadas
+## Libraries used
 
 - JQuery
 - SignalR
